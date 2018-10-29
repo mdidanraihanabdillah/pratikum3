@@ -91,7 +91,8 @@ int main() {
 **screenshoot**
 ![screenshoot](https://raw.githubusercontent.com/mdidanraihanabdillah/pratikum3/master/SS%20LATIHAN%202.png)
 
-**flowchart**(https://raw.githubusercontent.com/mdidanraihanabdillah/pratikum3/master/FLOWCHART%20LATIHAN2.png)
+**flowchart**
+![flowchart](https://raw.githubusercontent.com/mdidanraihanabdillah/pratikum3/master/FLOWCHART%20LATIHAN2.png)
 
 Latihan 3 : susun algoritma untuk menginput 3 buah bilangan bulat, (dianggap ketiga buah bilangan tersebut nilainya tidak sama satu dengan yang lain). kemudian cetaklah bilangan dengan nilai tengah (bukan terbesar juga bukan yang terkecil)
  
